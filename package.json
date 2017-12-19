@@ -1,0 +1,23 @@
+{
+  "name": "avanish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-validator": "^4.3.0",
+    "git": "^0.1.5",
+    "isvalid-express": "0.0.9",
+    "lodash": "^4.17.4",
+    "mongodb": "^3.0.0-rc0",
+    "mongoose": "^4.13.7",
+    "nodemon": "^1.13.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
