@@ -1,5 +1,5 @@
 {
-  "name": "avanish",
+  "name": "do",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,13 @@
     "validator": "^9.2.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanish19/do.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avanish19/do/issues"
+  },
+  "homepage": "https://github.com/avanish19/do#readme"
 }
